@@ -11,16 +11,16 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* BSc in Geography, University of Leicester, 2018
+* MSc. in GIS, University of Leicester, 2019
+* Ph.D in Geography, Ordnance Survey Studentship, University of Leicester, Ordnance Survey, Kings College London, 2023 (expected)
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* October 2018 - October 2021: Individual Council Member 
+  * APECS (Association of Polar Early Career Scientists)
+  * Duties included: Successfully ran and lead the APECS Polar Early Career Workshop 2020, contributed to the INTERACT Field Guide on Communications and Navigation, reviewed IASC and IASC-CAFF Fellowship applications, and contributed to both the Indigenous Collaborations and Antarctica Day working groups. 
+  
 
 * Fall 2015: Research Assistant
   * Github University
