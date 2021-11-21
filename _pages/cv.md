@@ -17,7 +17,7 @@ Education
 
 Work experience
 ======
-* October 2018 - October 2021: Individual Council Member, APECS (Association of Polar Early Career Scientists) 
+* <b>October 2018 - October 2021:</b> Individual Council Member, APECS (Association of Polar Early Career Scientists) 
 * May-October 2020: GIS Technician, City Fibre
 * June 2020: Icepyx Project Group Co-Lead, NASA-University of Washington, ICESat-2 hackweek
 * March 2020: Finnish Delegate, Model Arctic Council, Akureyri
