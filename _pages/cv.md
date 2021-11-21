@@ -34,7 +34,7 @@ Positions of Responsibility
 * 2018-2019: Course Representative, MSc Geographical Information Science
 * 2017-2018: Course Representative, Geography BSc 3rd Year
 * 2017-2018: President, University branch of the European Geography Association (EGEA)
-* 2017-2918: Events Officer, University Environmental Action Society
+* 2017-2018: Events Officer, University Environmental Action Society
 
 Conference Presentations
 ======
