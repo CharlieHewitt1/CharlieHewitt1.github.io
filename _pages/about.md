@@ -11,5 +11,5 @@ I am in the writing up stage of my MPhil, supported by an Ordnance Survey Studen
 
 My study title is 'Discovering the way: Automated Machine Learning Improvement of Ordnance Survey Path Network Data'. 
 
-My research interests include GIS, Data Visualisation, Arctic Ecology, and Spatial Ecology.
+My research interests include GIS, Data Visualisation, and Spatial Ecology.
 
