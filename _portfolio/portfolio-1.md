@@ -29,3 +29,9 @@ provide spatial context.
 <img src='/images/surveying3.PNG'>
 
 
+<b>Zeb1 Laser Scanning</b>
+This project’s aim was to survey an area of the university campus and facades of several buildings, using a Zeb1 hand-held laser scanner. Point clouds (left) were
+processed, using CloudCompare, where normals were computed using triangulation method, and a poisson surface reconstruction was performed using an octree
+depth of 11 (right). 
+
+<img src='/images/surveying4.PNG'>
