@@ -12,3 +12,20 @@ Using total station surveying by means of resection methods, mounds in a local p
 triangulation with linear interpolation gridding. Left = wireframe and filled plot, right = contour plot. Software used included: ArcMap, ArcScene, Surfer15. 
 
 <img src='/images/surveying1.PNG'>
+
+
+<b>Laser Scanning</b>
+The aim of this project was to visualise and survey tombstones in the local cemetery using laser scanning techniques. The data were collected using a Lecia P20 laser
+scanner, and the data were processed and analysed using CloudCompare, MeshLab, and ArcScene. The final product (above) was overlain on an OS MasterMap DEM
+to provide spatial context. 
+
+<img src='/images/surveying2.PNG'>
+
+<b>Structure from Motion Photogrammetry</b>
+Using structure from motion photogrammetry techniques, a gravestone in the local cemetery was visualised and a 3D model was created (above). The data were
+collected with a DSLR camera. The images and points were processed using Photoscan and MeshLab. The final product was overlain on an OS MasterMap DEM to
+provide spatial context. 
+
+<img src='/images/surveying3.PNG'>
+
+
