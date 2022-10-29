@@ -41,12 +41,17 @@ Presentations/Papers
 * <b>Geographical Information Science Research UK (GISRUK) Conference</b>
   * Hewitt, Charlie, Ballatore, Andrea, Cavazzi, Stefano, De Sabbata, Stefano and Tate, Nicholas. (2021), "Defining Natural Points of Interest", in, Vols., presented at the 29th Annual GIS Research UK Conference (GISRUK), Zenodo, available at: https://doi.org/10.5281/zenodo.4669886. 
 
+Publications
+======
+* <b>Interact Communication and Navigation Field Guide</b>
+   *  INTERACT 2021. INTERACT Fieldwork Communication and Navigation. Eds.: Schneider, A. et al. DCE – Danish Centre for Environment and Energy, Denmark, 80 p, Available at: https://eu-interact.org/publication/interact-communication-and-navigation-guidebook/ 
+
 
 Teaching/Demonstrating
 ======
 * <b>September - December 2022:</b>
-  *  Fundamentals of GIS (MSc & BSc) 
-  *  Geographic Visualisation (MSc)
+  *  Fundamentals of GIS (MSc & BSc) - Demonstrating
+  *  Geographic Visualisation (MSc) - Demonstrating
 
 
 Skills
