@@ -1,6 +1,6 @@
 ---
 title: "Surveying Techniques"
-excerpt: "Examples of surveying techniques used in field work<br/><img src='/images/surveying1.PNG' width="500" height="300">"
+excerpt: "Examples of surveying techniques used in field work<br/><img src='/images/surveying1.PNG' width="500" height="300"/>"
 collection: portfolio
 ---
 
