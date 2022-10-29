@@ -4,8 +4,6 @@ excerpt: "Examples of surveying techniques used in field work<br/><img src='/ima
 collection: portfolio
 ---
 
-This section shows examples of some of the surveying work undertaken as part of a field-course during my MSc. 
-
 <b>Total Station Survey by Means of Resection</b> 
 
 Using total station surveying by means of resection methods, mounds in a local park were quantified and visualised. Methods used include IDW interpolation and
