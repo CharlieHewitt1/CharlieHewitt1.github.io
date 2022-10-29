@@ -13,7 +13,7 @@ Education
 ======
 * BSc in Geography, University of Leicester, 2018
 * MSc. in GIS, University of Leicester, 2019, (Thesis in collaboraiton with Norwegian Institute for Nature Research)
-* Ph.D in Geography, Ordnance Survey Studentship, University of Leicester, Ordnance Survey, Kings College London, 2023 (expected) 
+* MPhil in Geography, Ordnance Survey Studentship, University of Leicester, Ordnance Survey, Kings College London (current)
 
 Work experience
 ======
@@ -27,8 +27,8 @@ Work experience
 
 Positions of Responsibility
 ======
-* <b>February 2021-Present:</b> Open Geospatial Consortium POI Standards Working Group
-* <b>January 2021-Present:</b> Web Coordinator, Royal Geographical Society IBG GIScience Webinar Series
+* <b>February 2021-2022:</b> Open Geospatial Consortium POI Standards Working Group
+* <b>January 2021-2022:</b> Web Coordinator, Royal Geographical Society IBG GIScience Webinar Series
 * <b>June 2020:</b> Application Reviewer, State of Environmental Science in Svalbard (SESS)
 * <b>May 2020:</b> Reviewer, Polar Resource Book, Chapter 4 "IPY Local Competence Building in the Circumpolar North"
 * <b>2018-2019:</b> Course Representative, MSc Geographical Information Science
@@ -36,10 +36,17 @@ Positions of Responsibility
 * <b>2017-2018:</b> President, University branch of the European Geography Association (EGEA)
 * <b>2017-2018:</b> Events Officer, University Environmental Action Society
 
-Conference Presentations
+Presentations/Papers
 ======
 * <b>Geographical Information Science Research UK (GISRUK) Conference</b>
   * Hewitt, Charlie, Ballatore, Andrea, Cavazzi, Stefano, De Sabbata, Stefano and Tate, Nicholas. (2021), "Defining Natural Points of Interest", in, Vols., presented at the 29th Annual GIS Research UK Conference (GISRUK), Zenodo, available at: https://doi.org/10.5281/zenodo.4669886. 
+
+
+Teaching/Demonstrating
+======
+* <b>September - December 2022:</b>
+  *  Fundamentals of GIS (MSc & BSc) 
+  *  Geographic Visualisation (MSc)
 
 
 Skills
