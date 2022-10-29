@@ -4,8 +4,7 @@ excerpt: "Examples of surveying techniques used in field work<br/><img src='/ima
 collection: portfolio
 ---
 
-<b>Total Station Survey by Means of Resection</b> 
-
+<b>Total Station Survey by Means of Resection</b> \
 Using total station surveying by means of resection methods, mounds in a local park were quantified and visualised. Methods used include IDW interpolation and
 triangulation with linear interpolation gridding. Left = wireframe and filled plot, right = contour plot. Software used included: ArcMap, ArcScene, Surfer15. 
 
@@ -13,8 +12,7 @@ triangulation with linear interpolation gridding. Left = wireframe and filled pl
 
 
 <b>Laser Scanning</b>
-The aim of this project was to visualise and survey tombstones in the local cemetery using laser scanning techniques. The data were collected using a Lecia P20 laser
-scanner, and the data were processed and analysed using CloudCompare, MeshLab, and ArcScene. The final product (above) was overlain on an OS MasterMap DEM
+<br>The aim of this project was to visualise and survey tombstones in the local cemetery using laser scanning techniques. The data were collected using a Lecia P20 laserscanner, and the data were processed and analysed using CloudCompare, MeshLab, and ArcScene. The final product (above) was overlain on an OS MasterMap DEM
 to provide spatial context. 
 
 <img src='/images/surveying2.PNG'>
