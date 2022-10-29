@@ -4,6 +4,6 @@ Name Name:
   name        : "Charlie Hewitt"
   uri         : "http://name.com"
   email       : "name@name.com"
-  bio         : "PhD Student, Ordnance Survey Studentship"
+  bio         : "GIS, Data Visualisation, Spatial Ecology"
   avatar      : "bio-photo-2.jpg"
-  twitter     : "c_hewitt1"
+  #twitter     : "c_hewitt1"
