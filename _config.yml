@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Charlie Hewitt"
 title_separator          : "-"
 name                     : &name "Charlie Hewitt"
-description              : &description "Second Year PhD Student, Ordnance Survey Studentship"
+description              : &description "GIS, Data Visualisation, Spatial Ecology"
 url                      : https://charliehewitt1.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "charliehewitt1.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Charlie Hewitt"
   avatar           : "profile.png"
-  bio              : "PhD Student, Ordnance Survey Studentship"
+  bio              : "GIS, Data Visualisation, Spatial Ecology"
   location         : 
   employer         :
   pubmed           : 
