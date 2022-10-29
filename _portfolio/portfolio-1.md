@@ -1,6 +1,6 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "Surveying Techniques"
+excerpt: "Examples of surveying techniques used in field work<br/><img src='/images/surveying1.png'>"
 collection: portfolio
 ---
 
