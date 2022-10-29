@@ -4,4 +4,11 @@ excerpt: "Short description of portfolio item number 1<br/><img src='/images/500
 collection: portfolio
 ---
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+This section shows examples of some of the surveying work undertaken as part of a field-course during my MSc. 
+
+<b>Total Station Survey by Means of Resection</b> 
+
+Using total station surveying by means of resection methods, mounds in a local park were quantified and visualised. Methods used include IDW interpolation and
+triangulation with linear interpolation gridding. Left = wireframe and filled plot, right = contour plot. Software used included: ArcMap, ArcScene, Surfer15. 
+
+<img src='/images/surveying1.PNG'>
