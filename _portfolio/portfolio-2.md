@@ -1,6 +1,6 @@
 ---
 title: "Remote Sensing Project"
-excerpt: "Identifying wildfire burn-scars<br/><img src='/images/rs1.PNG'>"
+excerpt: "Identifying wildfire burn-scars<br/><img src='/images/rs1.PNG' width=500 height=300 >"
 collection: portfolio
 ---
 
