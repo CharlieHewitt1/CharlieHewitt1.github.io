@@ -42,14 +42,12 @@ Presentations/Papers
 ======
 * <b>Geographical Information Science Research UK (GISRUK) Conference</b>
   * Hewitt, Charlie, Ballatore, Andrea, Cavazzi, Stefano, De Sabbata, Stefano and Tate, Nicholas. (2021), "Defining Natural Points of Interest", in, Vols., presented at the 29th Annual GIS Research UK Conference (GISRUK), Zenodo, available at: https://doi.org/10.5281/zenodo.4669886. 
-
 *<b>Association of Polar Early Career Scientists International Online Conference</b> “Geographical Information Systems As A Tool For Collaboration Across Knowledge Systems: An Arctic Case Study”.
 
 Publications
 ======
 * <b>Interact Communication and Navigation Field Guide</b>
    *  INTERACT 2021. INTERACT Fieldwork Communication and Navigation. Eds.: Schneider, A. et al. DCE – Danish Centre for Environment and Energy, Denmark, 80 p, Available at: https://eu-interact.org/publication/interact-communication-and-navigation-guidebook/ 
-  
 * <b> Turing Data Study Group Final Report: Centre for Environment, Fisheries and Aquaculture Science<b>
    * Data Study Group team. (2022). Data Study Group Final Report: Centre for Environment, Fisheries and Aquaculture Science. Zenodo. https://doi.org/10.5281/zenodo.6799166 
 
@@ -61,20 +59,20 @@ Teaching/Demonstrating
 
 Courses
 ======
-*<b>March 2022:</b> Applied Data Science with Python Specialisation (Univeristy of Michegan - Coursera)
-*<b>March 2022:</b> Python for Everybody Specialisation (Univeristy of Michegan - Coursera)
-*<b>January - March 2021:</b> Arctic Winter College 
-*<b>October 2020:</b> Royal Geographical Society, ‘New to teaching in Geography, Earth & Environmental Sciences’
-*<b>May 2020:</b> Osprey Leadership Foundation, Becoming a Conservation Leader
+* <b>March 2022:</b> Applied Data Science with Python Specialisation (Univeristy of Michegan - Coursera)
+* <b>March 2022:</b> Python for Everybody Specialisation (Univeristy of Michegan - Coursera)
+* <b>January - March 2021:</b> Arctic Winter College 
+* <b>October 2020:</b> Royal Geographical Society, ‘New to teaching in Geography, Earth & Environmental Sciences’
+* <b>May 2020:</b> Osprey Leadership Foundation, Becoming a Conservation Leader
   
 
 Technical Skills
 ======
-*<b>GIS:</b> QGIS, ArcGIS, R, Python, EarthEngine
-*<b>Coding:</b> R, Python, SQL, (JavaScript & HTML (basic))
-*<b>Remote Sensing:</b> ERDAS Imagine, Google EarthEngine
-*<b>Data Visualisation:</b> R, Python, Power BI, Excel
-*<b>Laser scanning/photogrammetry:</b> CloudCompare, Surfer15, Agisoft Metashape, MeshLab
-*<b>Field work:</b> Laser scanning with handheld and tripod-based scanning stations, total station by means of resection scanning, and photogrammetry.
+* <b>GIS:</b> QGIS, ArcGIS, R, Python, EarthEngine
+* <b>Coding:</b> R, Python, SQL, (JavaScript & HTML (basic))
+* <b>Remote Sensing:</b> ERDAS Imagine, Google EarthEngine
+* <b>Data Visualisation:</b> R, Python, Power BI, Excel
+* <b>Laser scanning/photogrammetry:</b> CloudCompare, Surfer15, Agisoft Metashape, MeshLab
+* <b>Field work:</b> Laser scanning with handheld and tripod-based scanning stations, total station by means of resection scanning, and photogrammetry.
   
   
