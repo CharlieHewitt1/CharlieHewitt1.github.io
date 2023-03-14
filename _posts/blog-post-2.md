@@ -1,24 +1,30 @@
 ---
-title: 'Extracting Buildings from Historic Maps - Part 1'
-date: 2020-11-21
-permalink: /posts/2012/08/blog-post-1/
+title: 'Replicating Written Descriptions of Footpaths in a GIS'
+date: 2023-1-20
+permalink: /posts/2012/08/blog-post-2/
 tags:
-  - historic maps
-  - raster
-  - vector
-  - ArcMap
+  - QGIS
+  - Python
+  - Footpaths
+  - Geoparse
 ---
-Summary: Extracting buildings from historic maps. 
+Summary: Identifying points of interest (POIs) in written text descriptions of footpaths, and using those POIs to establish a map-version of the described routes. 
 
 
 <h1>Goals</h1>
-<b>Goals:</b> To extract building features from historic maps, and to store them as vectors. 
+<b>Goals:</b> To identify POIs in the text; To georeference the identified POIs; To use shortest paths, and travelling salesman methods to replicate the path.
 
-<p><b>Background:</b> This project came about following the exploration of local historic maps to see how footpaths' spatial behaviour change as urbanisation occurs. A basic visualisation of urban features and footpaths would be useful in exploring this relationship. A brief Google search identified there to be no datasets relating to historic records of urban features aside from in historic maps. 
-This led to the idea to explore the different methods of extracting features from historic maps. 
-An initial exploration of the literature noted two potential paths to achieving this goal; first, using pre-made tools (e.g. using ArcGIS), and secondly, using machine learning techniques (e.g. segmentation and classification).
-To provide justification for why using machine learning techniques might be a better approach to this challenge, and to get an idea of the type of output I want, I initially chose to test out the 'using pre-made tools' approach. The rest of this post will discuss the methods, software, and data used, and the strengths and limitations of this approach. 
+<p><b>Background:</b> Following discussions about the work undertaken in <a href=”https://zenodo.org/record/4669886#.ZBB6GXbP0UE”>this paper</a>, the use of POIs as waypoints in written text was considered. The hypothesis 'Can 
 
+  
+<head>
+<link rel="import" href="\\uol.le.ac.uk\root\staff\home\c\ch510\Downloads\Extracting Footpaths from Website and Replicating  (4) (1)[83]">
+</head>
+  
+  
+  
+  
+  
 <h1>Data</h1>
 <b>Source:</b> Edina Digimap
 <p><b>Product:</b> 1st Edition (1846-1899) County Series 1:10 <br /><b>Format:</b> Tiff
