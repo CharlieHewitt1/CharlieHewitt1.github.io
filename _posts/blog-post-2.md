@@ -11,38 +11,52 @@ tags:
 Summary: Identifying points of interest (POIs) in written text descriptions of footpaths, and using those POIs to establish a map-version of the described routes. 
 
 
-<h1>Goals</h1>
-<b>Goals:</b> To identify POIs in the text; To georeference the identified POIs; To use shortest paths, and travelling salesman methods to replicate the path.
+<h1>Aim</h1>
+To extract walking route descriptions from a website, identify key points of interest from the text, and replicate the walked route using GIS methods.
 
-<p><b>Background:</b> Following discussions about the work undertaken in <a href=”https://zenodo.org/record/4669886#.ZBB6GXbP0UE”>this paper</a>, the use of POIs as waypoints in written text was considered. The hypothesis 'Can 
 
-  
-<head>
-<link rel="import" href="\\uol.le.ac.uk\root\staff\home\c\ch510\Downloads\Extracting Footpaths from Website and Replicating  (4) (1)[83]">
-</head>
-  
-  
-  
-  
-  
+<h1>Summary of Steps</h1>
+* Extracting walking route data from www.visorando.co.uk
+* Identifying the key POIs near walking routes
+* Replicating the footpath using the key points of interest
+
 <h1>Data</h1>
-<b>Source:</b> Edina Digimap
-<p><b>Product:</b> 1st Edition (1846-1899) County Series 1:10 <br /><b>Format:</b> Tiff
-
+<b>Source:</b> Walking route descriptions from www.visorando.co.uk
+* <p><b>Product:</b> A walk around Melbourn & Meldreth * <br /><b>Format:</b> Text
+<b>Source:</b> UK Rights of Way 
+* <p><b>Product:</b> Footpaths & byways - www.rowmaps.com * <br /><b>Format:</b> kml of linear features
+<b>Source:</b> OSM Points of Interest (POIs) 
+  * <p><b>Product:</b> POIs from the <a href="https://plugins.qgis.org/plugins/QuickOSM/">QuickOSM QGIS Plugin</a> * <br /><b>Format:</b> point features
+<b>Source:</b> Ordnance Survey Road Network 
+  * <p><b>Product:</b> <a href="https://digimap.edina.ac.uk/">OS Roads </a> * <br /><b>Format:</b> geodatabase of linear features  
+  
 <p><h1>Method</h1>
-The method used is developed from that in this YouTube video: www.youtube.com/watch?v=QMTUFfE2VXo&ab_channel=AnujTiwari. <p>
+<b>Methods/Tools used:</b> QGIS, Python, Geoparsing, Network Analysis, Steiner Trees, Travelling Salesman.
 
-1. Download the data from Edina Digimap and import it into ArcMap as a TIFF file <br />
-2. Create a new polygon bounding box, and clip the input TIFF to the study site area. <br /> 
-3. Enable the ArcScan Extension and Toolbar <br />
-4. In the TIFF file symbology settings, represent the data using unique values (0 & 1) <br />
-5. Using the 'Raster Cleanup' tool in the ArcScan toolbar, with the TIFF file selected, start editing and selecting cells you want to remove. In this example, we are removing any raster cells which are not buildings.  <br />
-6. Once all non-building related raster cells are deleted, and the 'Raster Cleanup' session is completed, use the 'raster to polygon' tool (found by searching the toolbox).  <br />
-7. Delete the polygon representing the background, to extract the building polygons. <br />
-8. Use the 'Dissolve' tool to clean up the individual polygons into one large polygon to represent all buildings (if desired).  <br />
- <br />
+<h2>Data Preparation</h2>
+<b>UK Rights of Way Data:</b>
+* Download data from the www.visorando.co.uk website
+* Open QGIS and import the GML file keeping all layers
+* Merge each layer ("footpaths", "bridleways", "byways") into a single 'walking network' dataset
+* Clip to the study area using a pre-made study area polygon
 
-![Editing a markdown file for a talk](/images/test_mkth_builds_raster_tidy.PNG)
+<b>UK Road Network Data:</b>
+* Download road network data from the https://digimap.edina.ac.uk/ website
+* Open QGIS and import all layers
+* Merge each road network type into a single 'road network' dataset
+* Clip to the study area using a pre-made study area polygon
+
+<b>Network dataset:</b>
+* Merge the UK Road Network data & UK Rights of Way data once processed, into a single dataset to represent the network
+
+
+<b>OSM Points of Interest (POI):</b>
+* Using the QuickOSM Plugin in QGIS (https://plugins.qgis.org/plugins/QuickOSM/) import the point, line, and polygon data relating to the 'historic', 'leisure', 'man-made', 'sport', 'waterway', 'tourism', 'natural', and 'amenity' POI types.
+* Create one 'points object', 'lines object', 'polygons object' for each data representation using the merge function.
+* Clip these data to the study area using the pre-made polygon
+* Export each of the three objects as a csv files
+
+
 
 <img src="https://github.com/CharlieHewitt1/charliehewitt1.github.io/blob/master/images/test_mkth_builds_raster_tidy.PNG" alt="Italian">
 
