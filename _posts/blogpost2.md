@@ -1,0 +1,48 @@
+---
+title: 'Extracting Buildings from Historic Maps - Part 1'
+date: 2020-11-21
+permalink: /posts/2012/08/blog-post-1/
+tags:
+  - historic maps
+  - raster
+  - vector
+  - ArcMap
+---
+Summary: Extracting buildings from historic maps. 
+
+
+<h1>Goals</h1>
+<b>Goals:</b> To extract building features from historic maps, and to store them as vectors. 
+
+<p><b>Background:</b> This project came about following the exploration of local historic maps to see how footpaths' spatial behaviour change as urbanisation occurs. A basic visualisation of urban features and footpaths would be useful in exploring this relationship. A brief Google search identified there to be no datasets relating to historic records of urban features aside from in historic maps. 
+This led to the idea to explore the different methods of extracting features from historic maps. 
+An initial exploration of the literature noted two potential paths to achieving this goal; first, using pre-made tools (e.g. using ArcGIS), and secondly, using machine learning techniques (e.g. segmentation and classification).
+To provide justification for why using machine learning techniques might be a better approach to this challenge, and to get an idea of the type of output I want, I initially chose to test out the 'using pre-made tools' approach. The rest of this post will discuss the methods, software, and data used, and the strengths and limitations of this approach. 
+
+<h1>Data</h1>
+<b>Source:</b> Edina Digimap
+<p><b>Product:</b> 1st Edition (1846-1899) County Series 1:10 <br /><b>Format:</b> Tiff
+
+<p><h1>Method</h1>
+The method used is developed from that in this YouTube video: www.youtube.com/watch?v=QMTUFfE2VXo&ab_channel=AnujTiwari. <p>
+
+1. Download the data from Edina Digimap and import it into ArcMap as a TIFF file <br />
+2. Create a new polygon bounding box, and clip the input TIFF to the study site area. <br /> 
+3. Enable the ArcScan Extension and Toolbar <br />
+4. In the TIFF file symbology settings, represent the data using unique values (0 & 1) <br />
+5. Using the 'Raster Cleanup' tool in the ArcScan toolbar, with the TIFF file selected, start editing and selecting cells you want to remove. In this example, we are removing any raster cells which are not buildings.  <br />
+6. Once all non-building related raster cells are deleted, and the 'Raster Cleanup' session is completed, use the 'raster to polygon' tool (found by searching the toolbox).  <br />
+7. Delete the polygon representing the background, to extract the building polygons. <br />
+8. Use the 'Dissolve' tool to clean up the individual polygons into one large polygon to represent all buildings (if desired).  <br />
+ <br />
+
+![Editing a markdown file for a talk](/images/test_mkth_builds_raster_tidy.PNG)
+
+<img src="https://github.com/CharlieHewitt1/charliehewitt1.github.io/blob/master/images/test_mkth_builds_raster_tidy.PNG" alt="Italian">
+
+
+
+
+
+
+<h1>Results</h1>
