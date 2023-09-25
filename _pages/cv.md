@@ -43,7 +43,7 @@ Presentations/Papers
 ======
 * <b>Geographical Information Science Research UK (GISRUK) Conference</b>
   * Hewitt, Charlie, Ballatore, Andrea, Cavazzi, Stefano, De Sabbata, Stefano and Tate, Nicholas. (2021), "Defining Natural Points of Interest", in, Vols., presented at the 29th Annual GIS Research UK Conference (GISRUK), Zenodo, available at: https://doi.org/10.5281/zenodo.4669886. 
-*<b>Association of Polar Early Career Scientists International Online Conference</b> “Geographical Information Systems As A Tool For Collaboration Across Knowledge Systems: An Arctic Case Study”.
+* <b>Association of Polar Early Career Scientists International Online Conference</b> “Geographical Information Systems As A Tool For Collaboration Across Knowledge Systems: An Arctic Case Study”.
 
 Publications
 ======
@@ -74,6 +74,6 @@ Technical Skills
 * <b>Remote Sensing:</b> ERDAS Imagine, Google EarthEngine
 * <b>Data Visualisation:</b> R, Python, Power BI, Excel
 * <b>Laser scanning/photogrammetry:</b> CloudCompare, Surfer15, Agisoft Metashape, MeshLab
-* <b>Field work:</b> Laser scanning with handheld and tripod-based scanning stations, total station by means of resection scanning, and photogrammetry.
+* <b>Field work:</b> Audiomoth recording, laser scanning with handheld and tripod-based scanning stations, total station by means of resection scanning, and photogrammetry.
   
   
