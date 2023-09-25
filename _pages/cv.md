@@ -17,10 +17,10 @@ Education
 
 Work experience
 ======
-* <b>May 2023 - </b>Digital Ecologist, Digital Ecology Ltd.
-* <b>August 2022 - </b>Freelance Geospatial Analyst, The Osprey Foundation
-* <b>December 2021 - </b>Turing Data Study Group, Alan Turing Institute
-* <b>October 2018 - </b>October 2021:</b> Individual Council Member, APECS (Association of Polar Early Career Scientists) 
+* <b>May 2023: </b>Digital Ecologist, Digital Ecology Ltd.
+* <b>August 2022: </b>Freelance Geospatial Analyst, The Osprey Foundation
+* <b>December 2021: </b>Turing Data Study Group, Alan Turing Institute
+* <b>October 2018: </b>October 2021:</b> Individual Council Member, APECS (Association of Polar Early Career Scientists) 
 * <b>May-October 2020:</b> GIS Technician, CityFibre
 * <b>June 2020:</b> Icepyx Project Group Co-Lead, NASA-University of Washington, ICESat-2 hackweek
 * <b>March 2020:</b> Finnish Delegate, Model Arctic Council, Akureyri
