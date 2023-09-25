@@ -11,16 +11,16 @@ redirect_from:
 
 Education
 ======
-* BSc in Geography, University of Leicester, 2018
-* MSc. in GIS, University of Leicester, 2019, (Thesis in collaboraiton with Norwegian Institute for Nature Research)
-* MPhil in Geography, Ordnance Survey Studentship, University of Leicester, Ordnance Survey, Kings College London, 2023 (current)
+* <b>BSc in Geography, </b>University of Leicester, 2018
+* <b>MSc. in GIS, </b>University of Leicester, 2019, (Thesis in collaboraiton with Norwegian Institute for Nature Research)
+* <b>MPhil in Geography, </b>Ordnance Survey Studentship, University of Leicester, Ordnance Survey, Kings College London, 2023 (current)
 
 Work experience
 ======
-* <b>May 2023 - Digital Ecologist, Digital Ecology Ltd.
-* <b>August 2022 - Freelance Geospatial Analyst, The Osprey Foundation
-* <b>December 2021 - Turing Data Study Group, Alan Turing Institute
-* <b>October 2018 - October 2021:</b> Individual Council Member, APECS (Association of Polar Early Career Scientists) 
+* <b>May 2023 - </b>Digital Ecologist, Digital Ecology Ltd.
+* <b>August 2022 - </b>Freelance Geospatial Analyst, The Osprey Foundation
+* <b>December 2021 - </b>Turing Data Study Group, Alan Turing Institute
+* <b>October 2018 - </b>October 2021:</b> Individual Council Member, APECS (Association of Polar Early Career Scientists) 
 * <b>May-October 2020:</b> GIS Technician, CityFibre
 * <b>June 2020:</b> Icepyx Project Group Co-Lead, NASA-University of Washington, ICESat-2 hackweek
 * <b>March 2020:</b> Finnish Delegate, Model Arctic Council, Akureyri
