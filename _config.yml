@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Charlie Hewitt"
 title_separator          : "-"
 name                     : &name "Charlie Hewitt"
-description              : &description "GIS, Data Visualisation, Spatial Ecology"
+description              : &description "Spatial Ecology, GIS, Data Visualisation"
 url                      : https://charliehewitt1.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "charliehewitt1.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Charlie Hewitt"
   avatar           : "profile.png"
-  bio              : "GIS, Data Visualisation, Spatial Ecology"
+  bio              : "Spatial Ecology, GIS, Data Visualisation"
   location         : 
   employer         :
   pubmed           : 
